@@ -61,7 +61,7 @@ It's open-source, offers extensive features, requires self-managed infrastructur
 
 <img width="837" alt="image" src="https://github.com/user-attachments/assets/682a0699-30b4-4a8c-976a-6a5e99fa5518">
 
-### Thinking about infrastructure
+### Thinking about infrastructure required for authentication
 ![image](https://github.com/user-attachments/assets/7cc9b679-556a-4433-851f-14c6420cf9f9)
 
 
